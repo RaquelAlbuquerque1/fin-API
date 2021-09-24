@@ -3,8 +3,6 @@ Node Track  - Ignite - @Rocketseat. It consists of an finacial API.
 
 ## FinApi - Financial
 
----
-
 ### Requirements
 
 - Should be possible to create an account
@@ -15,8 +13,6 @@ Node Track  - Ignite - @Rocketseat. It consists of an finacial API.
 - Should be possible to update datas of the account of the client
 - Should be possible to get datas of the account of the client
 - Should be possible to delete an account
-
----
 
 ## Business Rules
 
