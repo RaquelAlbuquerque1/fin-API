@@ -1,4 +1,4 @@
-# FinApi - Financial
+# Fin Api - Financial
 
 Node Track  - Ignite - @Rocketseat. It consists of an finacial API.
 
