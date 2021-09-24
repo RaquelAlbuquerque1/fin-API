@@ -1,5 +1,5 @@
-# fin API
-API financeira feita no IGNITE - NODE JS da @rocketseat
+# Fin API
+Node Track  - Ignite - @Rocketseat. It consists of an finacial API.
 
 ## FinApi - Financial
 
