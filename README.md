@@ -16,7 +16,6 @@ Node Track  - Ignite - @Rocketseat. It consists of an finacial API.
 ## Business Rules
 
 - It shouldn't be possible to register an account with an existing CPF
-- Não deve ser possível fazer depósito em uma conta não existente
 - It shouldn't be possible to make a deposit into a non-existent account
 - It shouldn't be possible to make a withdrawal into a non-existent account
 - It shouldn't be possible to delete a non-existing account
