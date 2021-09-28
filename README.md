@@ -21,4 +21,4 @@ Node Track  - Ignite - @Rocketseat. It consists of an finacial API.
 - It shouldn't be possible to delete a non-existing account
 - It shouldn't be possible to withdraw when the balance is insufficient
 
-### You can see then all rules are corret running the tests of the application.
+### You can see then all rules are correct running the tests of the application.
